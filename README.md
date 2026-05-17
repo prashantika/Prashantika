@@ -140,8 +140,8 @@ Prometheus, Grafana, ELK Stack configurations
 ## 🤝 Let's Connect
 
 - **GitHub**: [github.com/prashantika](https://github.com/prashantika)
-- **LinkedIn**: [Add your LinkedIn profile](https://linkedin.com)
-- **Email**: [Add your email]
+- **LinkedIn**: [prashantika](www.linkedin.com/in/prashantika-k-305625157)
+- **Email**: [prashantika2026@gmail.com]
 
 ---
 
